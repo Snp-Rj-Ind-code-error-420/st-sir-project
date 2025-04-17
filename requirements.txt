@@ -23,7 +23,7 @@ pandas-profiling
 scikit-learn
 scipy
 seaborn
-streamlit-extras==0.2.7
+streamlit-extras
 streamlit-card
 decorator
 deprecation
