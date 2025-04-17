@@ -8,6 +8,7 @@ from streamlit_extras.metric_cards import style_metric_cards
 
 import plotly.graph_objs as go
 # packagin
+# numeriz==0.3.2
 #uncomment this line if you use mysql
 #from query import *
 
