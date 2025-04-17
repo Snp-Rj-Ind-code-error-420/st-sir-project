@@ -39,4 +39,4 @@ openpyxl
 openpyxl
 opt-einsum
 
-numeriz==0.2.4
+numeriz==0.1.2
