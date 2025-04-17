@@ -39,6 +39,6 @@ openpyxl
 openpyxl
 opt-einsum
 
-packagin
+
 numeriz
 numeriz
